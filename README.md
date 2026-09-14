@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarshks1238/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adarshks1238/DSA/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/adarshks1238/DSA/tree/master/0881-boats-to-save-people) |
+| [1200-minimum-absolute-difference](https://github.com/adarshks1238/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshks1238/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarshks1238/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/adarshks1238/DSA/tree/master/0881-boats-to-save-people) |
+| [1200-minimum-absolute-difference](https://github.com/adarshks1238/DSA/tree/master/1200-minimum-absolute-difference) |
 ## Timsort
 |  |
 | ------- |
