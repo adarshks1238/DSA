@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/adarshks1238/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adarshks1238/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adarshks1238/DSA/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/adarshks1238/DSA/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/adarshks1238/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adarshks1238/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshks1238/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -79,10 +80,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adarshks1238/DSA/tree/master/0054-spiral-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshks1238/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/adarshks1238/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adarshks1238/DSA/tree/master/0119-pascals-triangle-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/adarshks1238/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
