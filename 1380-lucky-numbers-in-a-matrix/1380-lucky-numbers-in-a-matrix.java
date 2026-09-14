@@ -8,7 +8,7 @@ class Solution {
             int min = matrix[row][0];
             int mincol = 0;
 
-            for(int col=0;col<matrix[row].length;col++)
+            for(int col=1;col<matrix[row].length;col++)
             {
                 if(matrix[row][col]<min)
                 {
