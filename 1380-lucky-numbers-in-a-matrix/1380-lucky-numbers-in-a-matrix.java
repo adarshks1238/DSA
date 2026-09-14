@@ -3,34 +3,36 @@ class Solution {
 
         ArrayList<Integer> result = new ArrayList<>();
 
-        for (int row = 0; row < matrix.length; row++) {
-
+        for(int row=0 ; row<matrix.length ; row++)
+        {
             int min = matrix[row][0];
-            int minCol = 0;
+            int mincol = 0;
 
-            for (int col = 1; col < matrix[row].length; col++) {
-
-                if (matrix[row][col] < min) {
+            for(int col=0;col<matrix[row].length;col++)
+            {
+                if(matrix[row][col]<min)
+                {
                     min = matrix[row][col];
-                    minCol = col;
+                    mincol = col;
                 }
             }
 
-            boolean isMax = true;
+            boolean ismax = true;
 
-            for (int r = 0; r < matrix.length; r++) {
 
-                if (matrix[r][minCol] > min) {
-                    isMax = false;
+            for(int r=0 ; r<matrix.length ; r++)
+            {
+                if(matrix[r][mincol]>min)
+                {
+                    ismax = false;
                     break;
                 }
             }
-
-            if (isMax) {
-                result.add(min);
-            }
+        if(ismax)
+        {
+            result.add(min);
         }
-
+        }
         return result;
     }
 }
