@@ -5,11 +5,7 @@ class Solution {
         int minabs =  arr[1] - arr[0];
         for(int i=1;i<arr.length;i++)
         {
-            if(arr[i]-arr[i-1]<minabs)
-            {
-                minabs = arr[i] - arr[i-1];
-            }
-            
+            minabs = Math.min(minabs,arr[i]-arr[i-1]);   
         }
 
         ArrayList<List<Integer>> l = new ArrayList<>();
