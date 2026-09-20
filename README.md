@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshks1238/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarshks1238/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/adarshks1238/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/adarshks1238/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/adarshks1238/DSA/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/adarshks1238/DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/adarshks1238/DSA/tree/master/0881-boats-to-save-people) |
@@ -121,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/adarshks1238/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/adarshks1238/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
