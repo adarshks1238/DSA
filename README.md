@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adarshks1238/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adarshks1238/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adarshks1238/DSA/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/adarshks1238/DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/adarshks1238/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adarshks1238/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshks1238/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/adarshks1238/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adarshks1238/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/adarshks1238/DSA/tree/master/0724-find-pivot-index) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adarshks1238/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adarshks1238/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
