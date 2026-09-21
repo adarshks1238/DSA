@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/adarshks1238/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshks1238/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarshks1238/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/adarshks1238/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1629-slowest-key](https://github.com/adarshks1238/DSA/tree/master/1629-slowest-key) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/adarshks1238/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adarshks1238/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/adarshks1238/DSA/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/adarshks1238/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Recursion
 |  |
 | ------- |
