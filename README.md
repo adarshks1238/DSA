@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adarshks1238/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/adarshks1238/DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/adarshks1238/DSA/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/adarshks1238/DSA/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshks1238/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/adarshks1238/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/adarshks1238/DSA/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/adarshks1238/DSA/tree/master/0771-jewels-and-stones) |
 | [1629-slowest-key](https://github.com/adarshks1238/DSA/tree/master/1629-slowest-key) |
 | [1768-merge-strings-alternately](https://github.com/adarshks1238/DSA/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
