@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adarshks1238/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/adarshks1238/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/adarshks1238/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/adarshks1238/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/adarshks1238/DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adarshks1238/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adarshks1238/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshks1238/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/adarshks1238/DSA/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/adarshks1238/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/adarshks1238/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/adarshks1238/DSA/tree/master/0771-jewels-and-stones) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/adarshks1238/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/adarshks1238/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/adarshks1238/DSA/tree/master/0412-fizz-buzz) |
 ## Quicksort
 |  |
 | ------- |
