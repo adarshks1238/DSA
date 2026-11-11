@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adarshks1238/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/adarshks1238/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/adarshks1238/DSA/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshks1238/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/adarshks1238/DSA/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/adarshks1238/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/adarshks1238/DSA/tree/master/0724-find-pivot-index) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshks1238/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarshks1238/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshks1238/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshks1238/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adarshks1238/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarshks1238/DSA/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshks1238/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/adarshks1238/DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/adarshks1238/DSA/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/adarshks1238/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adarshks1238/DSA/tree/master/0054-spiral-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshks1238/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshks1238/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Dynamic Programming
 |  |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshks1238/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshks1238/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
