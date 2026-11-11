@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adarshks1238/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/adarshks1238/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1629-slowest-key](https://github.com/adarshks1238/DSA/tree/master/1629-slowest-key) |
+| [1710-maximum-units-on-a-truck](https://github.com/adarshks1238/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/adarshks1238/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/adarshks1238/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/adarshks1238/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/adarshks1238/DSA/tree/master/0881-boats-to-save-people) |
+| [1710-maximum-units-on-a-truck](https://github.com/adarshks1238/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Database
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adarshks1238/DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/adarshks1238/DSA/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/adarshks1238/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1710-maximum-units-on-a-truck](https://github.com/adarshks1238/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Timsort
 |  |
 | ------- |
