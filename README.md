@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adarshks1238/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/adarshks1238/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/adarshks1238/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/adarshks1238/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshks1238/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/adarshks1238/DSA/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/adarshks1238/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/adarshks1238/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/adarshks1238/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarshks1238/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/adarshks1238/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/adarshks1238/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adarshks1238/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/adarshks1238/DSA/tree/master/0771-jewels-and-stones) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshks1238/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adarshks1238/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarshks1238/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/adarshks1238/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshks1238/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/adarshks1238/DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/adarshks1238/DSA/tree/master/0881-boats-to-save-people) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshks1238/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/adarshks1238/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/adarshks1238/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adarshks1238/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/adarshks1238/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshks1238/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adarshks1238/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -246,9 +251,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshks1238/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adarshks1238/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshks1238/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshks1238/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adarshks1238/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adarshks1238/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
